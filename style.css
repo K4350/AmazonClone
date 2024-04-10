@@ -213,12 +213,7 @@ span {
 
 /* footer */
 
-footer {
-    
-}
-
-
-.foot-panel1 {
+.foot-panel1 a {
     background-color: #37475a;
     color: white;
     height: 50px;
@@ -226,6 +221,7 @@ footer {
     align-items: center;
     justify-content: center;
     font-size: 0.85rem;
+    text-decoration: none;
 }
 
 .foot-panel2 {
